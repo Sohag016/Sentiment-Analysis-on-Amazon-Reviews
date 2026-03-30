@@ -71,7 +71,6 @@ Hyperparameter tuning is performed using **Grid Search** to optimize selected mo
 - **Logistic Regression**: Tuning regularization parameters.
 
 ---
-
 ## Comparative Analysis
 A comparative analysis is performed to evaluate all models based on accuracy, precision, recall, and F1 score. The results are visualized using bar plots to identify the best-performing model.
 
